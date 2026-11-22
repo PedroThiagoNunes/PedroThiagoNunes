@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou cursando DEV (desenvolvimento de sistemas )
-- 🌱 me contate por: pedrothiagonunes@gmail.com
+- 🌱 me contate por: pedrothiagosilva001@gmail.com
 
 
 ![PedroThiagoNunesGitHub stats](https://github-readme-stats.vercel.app/api?username=PedroThiagoNunes&show_icons=true&theme=dark)
